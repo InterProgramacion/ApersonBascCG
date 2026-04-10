@@ -1,29 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\PROGRAMACION\\Desktop\\Aperson_FacInv_CR\\",
+  "WorkspaceRootPath": "E:\\Aperson_FacInv_CR\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F2C9C006-FF5A-4591-808C-A62AA0A0C600}|Aperson_FacInv\\AperBascu.vbproj|c:\\users\\programacion\\desktop\\aperson_facinv_cr\\aperson_facinv\\forms\\frmpesaje.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "AbsoluteMoniker": "D:0:0:{F2C9C006-FF5A-4591-808C-A62AA0A0C600}|Aperson_FacInv\\AperBascu.vbproj|e:\\aperson_facinv_cr\\aperson_facinv\\forms\\frmpesaje.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{F2C9C006-FF5A-4591-808C-A62AA0A0C600}|Aperson_FacInv\\AperBascu.vbproj|solutionrelative:aperson_facinv\\forms\\frmpesaje.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F2C9C006-FF5A-4591-808C-A62AA0A0C600}|Aperson_FacInv\\AperBascu.vbproj|C:\\Users\\PROGRAMACION\\Desktop\\Aperson_FacInv_CR\\aperson_facinv\\forms\\frmpesaje.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "AbsoluteMoniker": "D:0:0:{F2C9C006-FF5A-4591-808C-A62AA0A0C600}|Aperson_FacInv\\AperBascu.vbproj|E:\\Aperson_FacInv_CR\\aperson_facinv\\forms\\frmpesaje.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
       "RelativeMoniker": "D:0:0:{F2C9C006-FF5A-4591-808C-A62AA0A0C600}|Aperson_FacInv\\AperBascu.vbproj|solutionrelative:aperson_facinv\\forms\\frmpesaje.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F2C9C006-FF5A-4591-808C-A62AA0A0C600}|Aperson_FacInv\\AperBascu.vbproj|C:\\Users\\PROGRAMACION\\Desktop\\Aperson_FacInv_CR\\aperson_facinv\\forms\\mdimenu.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "AbsoluteMoniker": "D:0:0:{F2C9C006-FF5A-4591-808C-A62AA0A0C600}|Aperson_FacInv\\AperBascu.vbproj|E:\\Aperson_FacInv_CR\\aperson_facinv\\forms\\mdimenu.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{F2C9C006-FF5A-4591-808C-A62AA0A0C600}|Aperson_FacInv\\AperBascu.vbproj|solutionrelative:aperson_facinv\\forms\\mdimenu.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F2C9C006-FF5A-4591-808C-A62AA0A0C600}|Aperson_FacInv\\AperBascu.vbproj|C:\\Users\\PROGRAMACION\\Desktop\\Aperson_FacInv_CR\\aperson_facinv\\forms\\mdimenu.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "AbsoluteMoniker": "D:0:0:{F2C9C006-FF5A-4591-808C-A62AA0A0C600}|Aperson_FacInv\\AperBascu.vbproj|E:\\Aperson_FacInv_CR\\aperson_facinv\\forms\\mdimenu.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
       "RelativeMoniker": "D:0:0:{F2C9C006-FF5A-4591-808C-A62AA0A0C600}|Aperson_FacInv\\AperBascu.vbproj|solutionrelative:aperson_facinv\\forms\\mdimenu.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F2C9C006-FF5A-4591-808C-A62AA0A0C600}|Aperson_FacInv\\AperBascu.vbproj|C:\\Users\\PROGRAMACION\\Desktop\\Aperson_FacInv_CR\\aperson_facinv\\forms\\frmcontrolbls.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "AbsoluteMoniker": "D:0:0:{F2C9C006-FF5A-4591-808C-A62AA0A0C600}|Aperson_FacInv\\AperBascu.vbproj|E:\\Aperson_FacInv_CR\\aperson_facinv\\forms\\frmcontrolbls.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{F2C9C006-FF5A-4591-808C-A62AA0A0C600}|Aperson_FacInv\\AperBascu.vbproj|solutionrelative:aperson_facinv\\forms\\frmcontrolbls.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F2C9C006-FF5A-4591-808C-A62AA0A0C600}|Aperson_FacInv\\AperBascu.vbproj|C:\\Users\\PROGRAMACION\\Desktop\\Aperson_FacInv_CR\\aperson_facinv\\forms\\frmcontrolbls.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "AbsoluteMoniker": "D:0:0:{F2C9C006-FF5A-4591-808C-A62AA0A0C600}|Aperson_FacInv\\AperBascu.vbproj|E:\\Aperson_FacInv_CR\\aperson_facinv\\forms\\frmcontrolbls.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
       "RelativeMoniker": "D:0:0:{F2C9C006-FF5A-4591-808C-A62AA0A0C600}|Aperson_FacInv\\AperBascu.vbproj|solutionrelative:aperson_facinv\\forms\\frmcontrolbls.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     }
   ],
@@ -34,8 +34,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -52,9 +56,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "MDIMenu.vb",
-              "DocumentMoniker": "C:\\Users\\PROGRAMACION\\Desktop\\Aperson_FacInv_CR\\Aperson_FacInv\\Forms\\MDIMenu.vb",
+              "DocumentMoniker": "E:\\Aperson_FacInv_CR\\Aperson_FacInv\\Forms\\MDIMenu.vb",
               "RelativeDocumentMoniker": "Aperson_FacInv\\Forms\\MDIMenu.vb",
-              "ToolTip": "C:\\Users\\PROGRAMACION\\Desktop\\Aperson_FacInv_CR\\Aperson_FacInv\\Forms\\MDIMenu.vb",
+              "ToolTip": "E:\\Aperson_FacInv_CR\\Aperson_FacInv\\Forms\\MDIMenu.vb",
               "RelativeToolTip": "Aperson_FacInv\\Forms\\MDIMenu.vb",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
@@ -64,9 +68,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "frmControlBLs.vb",
-              "DocumentMoniker": "C:\\Users\\PROGRAMACION\\Desktop\\Aperson_FacInv_CR\\Aperson_FacInv\\Forms\\frmControlBLs.vb",
+              "DocumentMoniker": "E:\\Aperson_FacInv_CR\\Aperson_FacInv\\Forms\\frmControlBLs.vb",
               "RelativeDocumentMoniker": "Aperson_FacInv\\Forms\\frmControlBLs.vb",
-              "ToolTip": "C:\\Users\\PROGRAMACION\\Desktop\\Aperson_FacInv_CR\\Aperson_FacInv\\Forms\\frmControlBLs.vb",
+              "ToolTip": "E:\\Aperson_FacInv_CR\\Aperson_FacInv\\Forms\\frmControlBLs.vb",
               "RelativeToolTip": "Aperson_FacInv\\Forms\\frmControlBLs.vb",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwNcDAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
@@ -76,11 +80,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "frmPesaje.vb",
-              "DocumentMoniker": "C:\\Users\\PROGRAMACION\\Desktop\\Aperson_FacInv_CR\\Aperson_FacInv\\Forms\\frmPesaje.vb",
+              "DocumentMoniker": "E:\\Aperson_FacInv_CR\\Aperson_FacInv\\Forms\\frmPesaje.vb",
               "RelativeDocumentMoniker": "Aperson_FacInv\\Forms\\frmPesaje.vb",
-              "ToolTip": "C:\\Users\\PROGRAMACION\\Desktop\\Aperson_FacInv_CR\\Aperson_FacInv\\Forms\\frmPesaje.vb",
+              "ToolTip": "E:\\Aperson_FacInv_CR\\Aperson_FacInv\\Forms\\frmPesaje.vb",
               "RelativeToolTip": "Aperson_FacInv\\Forms\\frmPesaje.vb",
-              "ViewState": "AgIAAMcFAAAAAAAAAADwv9gFAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAALMFAAAAAAAAAADwv9gFAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2025-10-29T16:11:49.418Z",
               "EditorCaption": ""
@@ -89,10 +93,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "frmPesaje.vb [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\PROGRAMACION\\Desktop\\Aperson_FacInv_CR\\Aperson_FacInv\\Forms\\frmPesaje.vb",
+              "DocumentMoniker": "E:\\Aperson_FacInv_CR\\Aperson_FacInv\\Forms\\frmPesaje.vb",
               "RelativeDocumentMoniker": "Aperson_FacInv\\Forms\\frmPesaje.vb",
               "ToolTip": "C:\\Users\\PROGRAMACION\\Desktop\\Aperson_FacInv_CR\\Aperson_FacInv\\Forms\\frmPesaje.vb [Dise\u00F1o]",
-              "RelativeToolTip": "Aperson_FacInv\\Forms\\frmPesaje.vb [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2025-10-29T16:11:27.457Z"
             },
@@ -100,10 +103,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "MDIMenu.vb [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\PROGRAMACION\\Desktop\\Aperson_FacInv_CR\\Aperson_FacInv\\Forms\\MDIMenu.vb",
+              "DocumentMoniker": "E:\\Aperson_FacInv_CR\\Aperson_FacInv\\Forms\\MDIMenu.vb",
               "RelativeDocumentMoniker": "Aperson_FacInv\\Forms\\MDIMenu.vb",
               "ToolTip": "C:\\Users\\PROGRAMACION\\Desktop\\Aperson_FacInv_CR\\Aperson_FacInv\\Forms\\MDIMenu.vb [Dise\u00F1o]",
-              "RelativeToolTip": "Aperson_FacInv\\Forms\\MDIMenu.vb [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2025-10-28T20:49:58.673Z"
             },
@@ -111,10 +113,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "frmControlBLs.vb [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\PROGRAMACION\\Desktop\\Aperson_FacInv_CR\\Aperson_FacInv\\Forms\\frmControlBLs.vb",
+              "DocumentMoniker": "E:\\Aperson_FacInv_CR\\Aperson_FacInv\\Forms\\frmControlBLs.vb",
               "RelativeDocumentMoniker": "Aperson_FacInv\\Forms\\frmControlBLs.vb",
               "ToolTip": "C:\\Users\\PROGRAMACION\\Desktop\\Aperson_FacInv_CR\\Aperson_FacInv\\Forms\\frmControlBLs.vb [Dise\u00F1o]",
-              "RelativeToolTip": "Aperson_FacInv\\Forms\\frmControlBLs.vb [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2025-10-29T16:08:29.351Z"
             }
