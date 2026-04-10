@@ -1,0 +1,1124 @@
+C:\Saul_InterPort\ProgravbNet\Aperson_FacInv\Aperson_FacInv\bin\Release\Aperson_FacInv.exe.config
+C:\Saul_InterPort\ProgravbNet\Aperson_FacInv\Aperson_FacInv\bin\Release\Aperson_FacInv.exe
+C:\Saul_InterPort\ProgravbNet\Aperson_FacInv\Aperson_FacInv\bin\Release\Aperson_FacInv.pdb
+C:\Saul_InterPort\ProgravbNet\Aperson_FacInv\Aperson_FacInv\bin\Release\Aperson_FacInv.xml
+C:\Saul_InterPort\ProgravbNet\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.BuscaCodigo.resources
+C:\Saul_InterPort\ProgravbNet\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.BuscaCodigoA.resources
+C:\Saul_InterPort\ProgravbNet\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.frmActivarComputadora.resources
+C:\Saul_InterPort\ProgravbNet\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.frmArticulos.resources
+C:\Saul_InterPort\ProgravbNet\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.frmBasculas.resources
+C:\Saul_InterPort\ProgravbNet\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.frmBuques.resources
+C:\Saul_InterPort\ProgravbNet\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.frmCalbracion.resources
+C:\Saul_InterPort\ProgravbNet\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.frmClaseCarca.resources
+C:\Saul_InterPort\ProgravbNet\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.frmClientes.resources
+C:\Saul_InterPort\ProgravbNet\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.frmConfiguracionPuerto.resources
+C:\Saul_InterPort\ProgravbNet\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.frmContenedores.resources
+C:\Saul_InterPort\ProgravbNet\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.frmCorrealtivo.resources
+C:\Saul_InterPort\ProgravbNet\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.frmEntradasInventario.resources
+C:\Saul_InterPort\ProgravbNet\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.frmFlotillaCamiones.resources
+C:\Saul_InterPort\ProgravbNet\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.frmPaises.resources
+C:\Saul_InterPort\ProgravbNet\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.frmPesaje.resources
+C:\Saul_InterPort\ProgravbNet\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.frmPesosMM.resources
+C:\Saul_InterPort\ProgravbNet\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.frmProducto.resources
+C:\Saul_InterPort\ProgravbNet\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.frmRegistroCalibracion.resources
+C:\Saul_InterPort\ProgravbNet\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.frmTurnos.resources
+C:\Saul_InterPort\ProgravbNet\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.frmUsuario.resources
+C:\Saul_InterPort\ProgravbNet\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.MDIMenu.resources
+C:\Saul_InterPort\ProgravbNet\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.Resources.resources
+C:\Saul_InterPort\ProgravbNet\Aperson_FacInv\Aperson_FacInv\obj\Debug\AperBascu.vbproj.GenerateResource.Cache
+C:\Saul_InterPort\ProgravbNet\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.exe
+C:\Saul_InterPort\ProgravbNet\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.xml
+C:\Saul_InterPort\ProgravbNet\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.pdb
+D:\ProgravbNet\Aperson_FacInv\Aperson_FacInv\bin\Release\AperBascu.exe.config
+D:\ProgravbNet\Aperson_FacInv\Aperson_FacInv\bin\Release\AperBascu.exe
+D:\ProgravbNet\Aperson_FacInv\Aperson_FacInv\bin\Release\AperBascu.pdb
+D:\ProgravbNet\Aperson_FacInv\Aperson_FacInv\bin\Release\AperBascu.xml
+D:\ProgravbNet\Backup_03032048\Aperson_FacInv\Aperson_FacInv\bin\Debug\AperBascu.exe.config
+D:\ProgravbNet\Backup_03032048\Aperson_FacInv\Aperson_FacInv\obj\Debug\AperBascu.vbproj.ResolveComReference.cache
+D:\ProgravbNet\Backup_03032048\Aperson_FacInv\Aperson_FacInv\obj\Debug\AperBascu.exe
+D:\ProgravbNet\Backup_03032048\Aperson_FacInv\Aperson_FacInv\obj\Debug\AperBascu.xml
+D:\ProgravbNet\Backup_03032048\Aperson_FacInv\Aperson_FacInv\obj\Debug\AperBascu.pdb
+D:\ProgravbNet\Aperson_FacInv\Aperson_FacInv\bin\Debug\AperBascu.exe.config
+D:\ProgravbNet\Aperson_FacInv\Aperson_FacInv\bin\Debug\AperBascu.exe
+D:\ProgravbNet\Aperson_FacInv\Aperson_FacInv\bin\Debug\AperBascu.pdb
+D:\ProgravbNet\Aperson_FacInv\Aperson_FacInv\bin\Debug\AperBascu.xml
+D:\ProgravbNet\Aperson_FacInv\Aperson_FacInv\obj\Debug\AperBascu.vbproj.ResolveComReference.cache
+D:\ProgravbNet\Aperson_FacInv\Aperson_FacInv\obj\Debug\AperBascu.frmAnulaBoleta.resources
+D:\ProgravbNet\Aperson_FacInv\Aperson_FacInv\obj\Debug\AperBascu.frmCierreTurno.resources
+D:\ProgravbNet\Aperson_FacInv\Aperson_FacInv\obj\Debug\AperBascu.frmConsultaBoletaII.resources
+D:\ProgravbNet\Aperson_FacInv\Aperson_FacInv\obj\Debug\AperBascu.frmCorteTurno.resources
+D:\ProgravbNet\Aperson_FacInv\Aperson_FacInv\obj\Debug\AperBascu.frmPesajeEspecial.resources
+D:\ProgravbNet\Aperson_FacInv\Aperson_FacInv\obj\Debug\AperBascu.frmPesajeModifica.resources
+D:\ProgravbNet\Aperson_FacInv\Aperson_FacInv\obj\Debug\AperBascu.frmRegistroCertificado.resources
+D:\ProgravbNet\Aperson_FacInv\Aperson_FacInv\obj\Debug\AperBascu.frmUsuarioAccesos.resources
+D:\ProgravbNet\Aperson_FacInv\Aperson_FacInv\obj\Debug\AperBascu.Genera_ReporteCatalogos.resources
+D:\ProgravbNet\Aperson_FacInv\Aperson_FacInv\obj\Debug\AperBascu.MDIMenu.resources
+D:\ProgravbNet\Aperson_FacInv\Aperson_FacInv\obj\Debug\AperBascu.MensajesBascula.resources
+D:\ProgravbNet\Aperson_FacInv\Aperson_FacInv\obj\Debug\AperBascu.RepAnalitico.resources
+D:\ProgravbNet\Aperson_FacInv\Aperson_FacInv\obj\Debug\AperBascu.RepCierreTurno.resources
+D:\ProgravbNet\Aperson_FacInv\Aperson_FacInv\obj\Debug\AperBascu.ReporteBascula1.resources
+D:\ProgravbNet\Aperson_FacInv\Aperson_FacInv\obj\Debug\AperBascu.ReportePorFecha.resources
+D:\ProgravbNet\Aperson_FacInv\Aperson_FacInv\obj\Debug\AperBascu.RepPorFecha.resources
+D:\ProgravbNet\Aperson_FacInv\Aperson_FacInv\obj\Debug\AperBascu.BuscaCodigo.resources
+D:\ProgravbNet\Aperson_FacInv\Aperson_FacInv\obj\Debug\AperBascu.BuscaCodigoA.resources
+D:\ProgravbNet\Aperson_FacInv\Aperson_FacInv\obj\Debug\AperBascu.frmActivarComputadora.resources
+D:\ProgravbNet\Aperson_FacInv\Aperson_FacInv\obj\Debug\AperBascu.frmArticulos.resources
+D:\ProgravbNet\Aperson_FacInv\Aperson_FacInv\obj\Debug\AperBascu.frmBasculas.resources
+D:\ProgravbNet\Aperson_FacInv\Aperson_FacInv\obj\Debug\AperBascu.frmBuques.resources
+D:\ProgravbNet\Aperson_FacInv\Aperson_FacInv\obj\Debug\AperBascu.frmCalbracion.resources
+D:\ProgravbNet\Aperson_FacInv\Aperson_FacInv\obj\Debug\AperBascu.frmClaseCarca.resources
+D:\ProgravbNet\Aperson_FacInv\Aperson_FacInv\obj\Debug\AperBascu.frmClientes.resources
+D:\ProgravbNet\Aperson_FacInv\Aperson_FacInv\obj\Debug\AperBascu.frmConfiguracionPuerto.resources
+D:\ProgravbNet\Aperson_FacInv\Aperson_FacInv\obj\Debug\AperBascu.frmConsultaBoleta.resources
+D:\ProgravbNet\Aperson_FacInv\Aperson_FacInv\obj\Debug\AperBascu.frmContenedores.resources
+D:\ProgravbNet\Aperson_FacInv\Aperson_FacInv\obj\Debug\AperBascu.frmCorrealtivo.resources
+D:\ProgravbNet\Aperson_FacInv\Aperson_FacInv\obj\Debug\AperBascu.frmEntradasInventario.resources
+D:\ProgravbNet\Aperson_FacInv\Aperson_FacInv\obj\Debug\AperBascu.frmFlotillaCamiones.resources
+D:\ProgravbNet\Aperson_FacInv\Aperson_FacInv\obj\Debug\AperBascu.frmPaises.resources
+D:\ProgravbNet\Aperson_FacInv\Aperson_FacInv\obj\Debug\AperBascu.frmPesaje.resources
+D:\ProgravbNet\Aperson_FacInv\Aperson_FacInv\obj\Debug\AperBascu.frmPesosMM.resources
+D:\ProgravbNet\Aperson_FacInv\Aperson_FacInv\obj\Debug\AperBascu.frmProducto.resources
+D:\ProgravbNet\Aperson_FacInv\Aperson_FacInv\obj\Debug\AperBascu.frmRegistroCalibracion.resources
+D:\ProgravbNet\Aperson_FacInv\Aperson_FacInv\obj\Debug\AperBascu.frmTomaPesaje.resources
+D:\ProgravbNet\Aperson_FacInv\Aperson_FacInv\obj\Debug\AperBascu.frmTransporte.resources
+D:\ProgravbNet\Aperson_FacInv\Aperson_FacInv\obj\Debug\AperBascu.frmTurnos.resources
+D:\ProgravbNet\Aperson_FacInv\Aperson_FacInv\obj\Debug\AperBascu.frmUsuario.resources
+D:\ProgravbNet\Aperson_FacInv\Aperson_FacInv\obj\Debug\AperBascu.PrueReporte.resources
+D:\ProgravbNet\Aperson_FacInv\Aperson_FacInv\obj\Debug\AperBascu.RepListadosCatalogos.resources
+D:\ProgravbNet\Aperson_FacInv\Aperson_FacInv\obj\Debug\AperBascu.Login.resources
+D:\ProgravbNet\Aperson_FacInv\Aperson_FacInv\obj\Debug\AperBascu.Resources.resources
+D:\ProgravbNet\Aperson_FacInv\Aperson_FacInv\obj\Debug\AperBascu.Rview_Bascula.resources
+D:\ProgravbNet\Aperson_FacInv\Aperson_FacInv\obj\Debug\AperBascu.Rview_Buques.resources
+D:\ProgravbNet\Aperson_FacInv\Aperson_FacInv\obj\Debug\AperBascu.Rview_Camiones.resources
+D:\ProgravbNet\Aperson_FacInv\Aperson_FacInv\obj\Debug\AperBascu.Rview_Clientes.resources
+D:\ProgravbNet\Aperson_FacInv\Aperson_FacInv\obj\Debug\AperBascu.Rview_Productos.resources
+D:\ProgravbNet\Aperson_FacInv\Aperson_FacInv\obj\Debug\AperBascu.Rview_Transporte.resources
+D:\ProgravbNet\Aperson_FacInv\Aperson_FacInv\obj\Debug\AperBascu.Rview_Usuarios.resources
+D:\ProgravbNet\Aperson_FacInv\Aperson_FacInv\obj\Debug\AperBascu.vbproj.GenerateResource.Cache
+D:\ProgravbNet\Aperson_FacInv\Aperson_FacInv\obj\Debug\RdlCompile.cache
+D:\ProgravbNet\Aperson_FacInv\Aperson_FacInv\obj\Debug\RdlCompile.compiled
+D:\ProgravbNet\Aperson_FacInv\Aperson_FacInv\obj\Debug\AperBascu.exe
+D:\ProgravbNet\Aperson_FacInv\Aperson_FacInv\obj\Debug\AperBascu.xml
+D:\ProgravbNet\Aperson_FacInv\Aperson_FacInv\obj\Debug\AperBascu.pdb
+D:\ProgravbNet\Aperson_FacInv\Aperson_FacInv\obj\Debug\AperBascu.vbprojResolveAssemblyReference.cache
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\obj\Debug\AperBascu.vbproj.ResolveComReference.cache
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\obj\Debug\AperBascu.frmAnulaBoleta.resources
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\obj\Debug\AperBascu.frmCierreTurno.resources
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\obj\Debug\AperBascu.frmConsignatario.resources
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\obj\Debug\AperBascu.frmConsultaBoletaII.resources
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\obj\Debug\AperBascu.frmControlBLs.resources
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\obj\Debug\AperBascu.frmCorteTurno.resources
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\obj\Debug\AperBascu.frmParametro.resources
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\obj\Debug\AperBascu.frmPesajeEspecial.resources
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\obj\Debug\AperBascu.frmPesajeModifica.resources
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\obj\Debug\AperBascu.frmRegistroCertificado.resources
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\obj\Debug\AperBascu.frmUsuarioAccesos.resources
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\obj\Debug\AperBascu.Genera_ReporteCatalogos.resources
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\obj\Debug\AperBascu.MDIMenu.resources
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\obj\Debug\AperBascu.MensajesBascula.resources
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\obj\Debug\AperBascu.RepAnalitico.resources
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\obj\Debug\AperBascu.RepCierreTurno.resources
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\obj\Debug\AperBascu.ReporteBascula1.resources
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\obj\Debug\AperBascu.ReportePorFecha.resources
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\obj\Debug\AperBascu.RepPorFecha.resources
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\obj\Debug\AperBascu.BuscaCodigo.resources
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\obj\Debug\AperBascu.BuscaCodigoA.resources
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\obj\Debug\AperBascu.frmActivarComputadora.resources
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\obj\Debug\AperBascu.frmArticulos.resources
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\obj\Debug\AperBascu.frmBasculas.resources
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\obj\Debug\AperBascu.frmBuques.resources
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\obj\Debug\AperBascu.frmCalbracion.resources
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\obj\Debug\AperBascu.frmClaseCarca.resources
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\obj\Debug\AperBascu.frmClientes.resources
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\obj\Debug\AperBascu.frmConfiguracionPuerto.resources
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\obj\Debug\AperBascu.frmConsultaBoleta.resources
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\obj\Debug\AperBascu.frmContenedores.resources
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\obj\Debug\AperBascu.frmCorrealtivo.resources
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\obj\Debug\AperBascu.frmEntradasInventario.resources
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\obj\Debug\AperBascu.frmFlotillaCamiones.resources
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\obj\Debug\AperBascu.frmPaises.resources
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\obj\Debug\AperBascu.frmPesaje.resources
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\obj\Debug\AperBascu.frmPesosMM.resources
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\obj\Debug\AperBascu.frmProducto.resources
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\obj\Debug\AperBascu.frmRegistroCalibracion.resources
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\obj\Debug\AperBascu.frmTomaPesaje.resources
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\obj\Debug\AperBascu.frmTransporte.resources
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\obj\Debug\AperBascu.frmTurnos.resources
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\obj\Debug\AperBascu.frmUsuario.resources
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\obj\Debug\AperBascu.PrueReporte.resources
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\obj\Debug\AperBascu.RepListadosCatalogos.resources
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\obj\Debug\AperBascu.Login.resources
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\obj\Debug\AperBascu.RepPorFechaBL.resources
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\obj\Debug\AperBascu.Resources.resources
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\obj\Debug\AperBascu.Rview_Bascula.resources
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\obj\Debug\AperBascu.Rview_Buques.resources
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\obj\Debug\AperBascu.Rview_Camiones.resources
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\obj\Debug\AperBascu.Rview_Clientes.resources
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\obj\Debug\AperBascu.Rview_Productos.resources
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\obj\Debug\AperBascu.Rview_Transporte.resources
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\obj\Debug\AperBascu.Rview_Usuarios.resources
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\obj\Debug\AperBascu.vbproj.GenerateResource.cache
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\obj\Debug\RdlCompile.cache
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\obj\Debug\RdlCompile.compiled
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\obj\Debug\AperBascu.vbproj.CoreCompileInputs.cache
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\bin\Debug\AperBascu.exe.config
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\bin\Debug\AperBascu.exe
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\bin\Debug\AperBascu.pdb
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\bin\Debug\AperBascu.xml
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\bin\Debug\CrystalDecisions.Shared.dll
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\bin\Debug\Microsoft.CodeAnalysis.CSharp.dll
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\bin\Debug\Microsoft.CodeAnalysis.dll
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\bin\Debug\Microsoft.Extensions.Options.dll
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\bin\Debug\Newtonsoft.Json.dll
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\bin\Debug\System.Collections.Immutable.dll
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\bin\Debug\System.Reflection.Metadata.dll
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\bin\Debug\System.ValueTuple.dll
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\bin\Debug\AxShockwaveFlashObjects.dll
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\bin\Debug\EnvDTE.dll
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\bin\Debug\ShockwaveFlashObjects.dll
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\bin\Debug\stdole.dll
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\bin\Debug\Microsoft.MSXML.dll
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\bin\Debug\Microsoft.CodeAnalysis.xml
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\bin\Debug\Microsoft.CodeAnalysis.CSharp.xml
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\bin\Debug\Microsoft.Extensions.Options.xml
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\bin\Debug\Newtonsoft.Json.xml
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\bin\Debug\System.Collections.Immutable.xml
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\bin\Debug\System.Reflection.Metadata.xml
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\bin\Debug\System.ValueTuple.xml
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\obj\Debug\AperBascu.vbproj.CopyComplete
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\obj\Debug\AperBascu.exe
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\obj\Debug\AperBascu.xml
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\obj\Debug\AperBascu.pdb
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\obj\Debug\AperBascu.RepLogBL.resources
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\obj\Debug\AperBascu.frmCarga_Placas.resources
+D:\VisualBasic_Net\Aperson_FacInv\Aperson_FacInv\obj\Debug\AperBascu.vbproj.AssemblyReference.cache
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\AperBascu.exe.config
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\AperBascu.exe
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\AperBascu.pdb
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\AperBascu.xml
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\CrystalDecisions.Shared.dll
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\Microsoft.CodeAnalysis.CSharp.dll
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\Microsoft.CodeAnalysis.dll
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\Microsoft.Extensions.Options.dll
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\Newtonsoft.Json.dll
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\System.Collections.Immutable.dll
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\System.Reflection.Metadata.dll
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\System.ValueTuple.dll
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\TomaPesoLib.dll
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\AxShockwaveFlashObjects.dll
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\EnvDTE.dll
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\ShockwaveFlashObjects.dll
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\stdole.dll
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\Microsoft.MSXML.dll
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\Microsoft.CodeAnalysis.xml
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\Microsoft.CodeAnalysis.CSharp.xml
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\Microsoft.Extensions.Options.xml
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\Newtonsoft.Json.xml
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\System.Collections.Immutable.xml
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\System.Reflection.Metadata.xml
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\System.ValueTuple.xml
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\TomaPesoLib.pdb
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.vbproj.ResolveComReference.cache
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmAnulaBoleta.resources
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmCarga_Placas.resources
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmCierreTurno.resources
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmConsignatario.resources
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmConsultaBoletaII.resources
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmControlBLs.resources
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmCorteTurno.resources
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmParametro.resources
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmPesajeEspecial.resources
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmPesajeModifica.resources
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmRegistroCertificado.resources
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmUsuarioAccesos.resources
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.Genera_ReporteCatalogos.resources
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.MDIMenu.resources
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.MensajesBascula.resources
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.RepAnalitico.resources
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.RepCierreTurno.resources
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.RepLogBL.resources
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.ReporteBascula1.resources
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.ReportePorFecha.resources
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.RepPorFecha.resources
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.BuscaCodigo.resources
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.BuscaCodigoA.resources
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmActivarComputadora.resources
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmArticulos.resources
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmBasculas.resources
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmBuques.resources
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmCalbracion.resources
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmClaseCarca.resources
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmClientes.resources
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmConfiguracionPuerto.resources
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmConsultaBoleta.resources
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmContenedores.resources
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmCorrealtivo.resources
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmEntradasInventario.resources
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmFlotillaCamiones.resources
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmPaises.resources
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmPesaje.resources
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmPesosMM.resources
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmProducto.resources
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmRegistroCalibracion.resources
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmTomaPesaje.resources
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmTransporte.resources
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmTurnos.resources
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmUsuario.resources
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.PrueReporte.resources
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.RepListadosCatalogos.resources
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.Login.resources
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.RepPorFechaBL.resources
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.Resources.resources
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.Rview_Bascula.resources
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.Rview_Buques.resources
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.Rview_Camiones.resources
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.Rview_Clientes.resources
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.Rview_Productos.resources
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.Rview_Transporte.resources
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.Rview_Usuarios.resources
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.vbproj.GenerateResource.cache
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\RdlCompile.cache
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\RdlCompile.compiled
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.vbproj.CoreCompileInputs.cache
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.vbproj.CopyComplete
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.exe
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.xml
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.pdb
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmBodega.resources
+D:\VisualBasic_Net\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.vbproj.AssemblyReference.cache
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\AperBascu.exe.config
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\AperBascu.exe
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\AperBascu.pdb
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\AperBascu.xml
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\Microsoft.CodeAnalysis.dll
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\Newtonsoft.Json.dll
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\System.Collections.Immutable.dll
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\System.Reflection.Metadata.dll
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\System.ValueTuple.dll
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\EnvDTE.dll
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\stdole.dll
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\Microsoft.MSXML.dll
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\Microsoft.CodeAnalysis.xml
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\Microsoft.CodeAnalysis.CSharp.xml
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\Newtonsoft.Json.xml
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\System.Collections.Immutable.xml
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\System.Reflection.Metadata.xml
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\System.ValueTuple.xml
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\TomaPesoLib.pdb
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.vbproj.AssemblyReference.cache
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.exe.config
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.vbproj.ResolveComReference.cache
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmAnulaBoleta.resources
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmBodega.resources
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmCarga_Placas.resources
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmCierreTurno.resources
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmConsignatario.resources
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmConsultaBoletaII.resources
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmControlBLs.resources
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmCorteTurno.resources
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmParametro.resources
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmPesajeEspecial.resources
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmPesajeModifica.resources
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmRegistroCertificado.resources
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmUsuarioAccesos.resources
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.Genera_ReporteCatalogos.resources
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.MDIMenu.resources
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.MensajesBascula.resources
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.RepAnalitico.resources
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.RepCierreTurno.resources
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.RepLogBL.resources
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.ReporteBascula1.resources
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.ReportePorFecha.resources
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.RepPorFecha.resources
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.BuscaCodigo.resources
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.BuscaCodigoA.resources
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmActivarComputadora.resources
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmArticulos.resources
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmBasculas.resources
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmBuques.resources
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmCalbracion.resources
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmClaseCarca.resources
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmClientes.resources
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmConfiguracionPuerto.resources
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmConsultaBoleta.resources
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmContenedores.resources
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmCorrealtivo.resources
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmEntradasInventario.resources
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmFlotillaCamiones.resources
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmPaises.resources
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmPesaje.resources
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmPesosMM.resources
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmProducto.resources
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmRegistroCalibracion.resources
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmTomaPesaje.resources
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmTransporte.resources
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmTurnos.resources
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmUsuario.resources
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.PrueReporte.resources
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.RepListadosCatalogos.resources
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.Login.resources
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.RepPorFechaBL.resources
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.Resources.resources
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.Rview_Bascula.resources
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.Rview_Buques.resources
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.Rview_Camiones.resources
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.Rview_Clientes.resources
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.Rview_Productos.resources
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.Rview_Transporte.resources
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.Rview_Usuarios.resources
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.vbproj.GenerateResource.cache
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.vbproj.CoreCompileInputs.cache
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.vbproj.Up2Date
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.exe
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.xml
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.pdb
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\EPPlus.dll
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\System.Buffers.dll
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\System.Memory.dll
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\System.Security.Cryptography.Xml.dll
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\EPPlus.xml
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\System.Buffers.xml
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\System.Memory.xml
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmCargaMasiva.resources
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\AperBascu.exe.config
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\AperBascu.exe
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\AperBascu.pdb
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\AperBascu.xml
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\EPPlus.dll
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\Microsoft.CodeAnalysis.dll
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\System.Buffers.dll
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\System.Memory.dll
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\System.Reflection.Metadata.dll
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\System.Security.Cryptography.Xml.dll
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\System.ValueTuple.dll
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\EnvDTE.dll
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\stdole.dll
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\EPPlus.xml
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\Microsoft.CodeAnalysis.xml
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\Microsoft.CodeAnalysis.CSharp.xml
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\System.Buffers.xml
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\System.Memory.xml
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\System.Reflection.Metadata.xml
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\System.ValueTuple.xml
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\TomaPesoLib.pdb
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.vbproj.AssemblyReference.cache
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.exe.config
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.vbproj.ResolveComReference.cache
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmAnulaBoleta.resources
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmBodega.resources
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmCargaMasiva.resources
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmCarga_Placas.resources
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmCierreTurno.resources
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmConsignatario.resources
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmConsultaBoletaII.resources
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmControlBLs.resources
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmCorteTurno.resources
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmParametro.resources
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmPesajeEspecial.resources
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmPesajeModifica.resources
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmRegistroCertificado.resources
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmUsuarioAccesos.resources
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.Genera_ReporteCatalogos.resources
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.MDIMenu.resources
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.MensajesBascula.resources
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.RepAnalitico.resources
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.RepCierreTurno.resources
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.RepLogBL.resources
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.ReporteBascula1.resources
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.ReportePorFecha.resources
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.RepPorFecha.resources
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.BuscaCodigo.resources
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.BuscaCodigoA.resources
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmActivarComputadora.resources
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmArticulos.resources
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmBasculas.resources
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmBuques.resources
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmCalbracion.resources
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmClaseCarca.resources
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmClientes.resources
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmConfiguracionPuerto.resources
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmConsultaBoleta.resources
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmContenedores.resources
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmCorrealtivo.resources
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmEntradasInventario.resources
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmFlotillaCamiones.resources
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmPaises.resources
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmPesaje.resources
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmPesosMM.resources
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmProducto.resources
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmRegistroCalibracion.resources
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmTomaPesaje.resources
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmTransporte.resources
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmTurnos.resources
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmUsuario.resources
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.PrueReporte.resources
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.RepListadosCatalogos.resources
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.Login.resources
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.RepPorFechaBL.resources
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.Resources.resources
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.Rview_Bascula.resources
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.Rview_Buques.resources
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.Rview_Camiones.resources
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.Rview_Clientes.resources
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.Rview_Productos.resources
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.Rview_Transporte.resources
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.Rview_Usuarios.resources
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.vbproj.GenerateResource.cache
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.vbproj.CoreCompileInputs.cache
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.vbproj.Up2Date
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.exe
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.xml
+C:\Users\Desarrollador Jr\Documents\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.pdb
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\obj\Debug\AperBascu.vbproj.AssemblyReference.cache
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\obj\Debug\AperBascu.exe.config
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\obj\Debug\AperBascu.vbproj.ResolveComReference.cache
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\obj\Debug\AperBascu.exe
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\obj\Debug\AperBascu.xml
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\obj\Debug\AperBascu.pdb
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\obj\Debug\AperBascu.frmAnulaBoleta.resources
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\obj\Debug\AperBascu.frmBodega.resources
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\obj\Debug\AperBascu.frmCargaMasiva.resources
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\obj\Debug\AperBascu.frmCarga_Placas.resources
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\obj\Debug\AperBascu.frmCierreTurno.resources
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\obj\Debug\AperBascu.frmConsignatario.resources
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\obj\Debug\AperBascu.frmConsultaBoletaII.resources
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\obj\Debug\AperBascu.frmControlBLs.resources
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\obj\Debug\AperBascu.frmCorteTurno.resources
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\obj\Debug\AperBascu.frmParametro.resources
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\obj\Debug\AperBascu.frmPesajeEspecial.resources
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\obj\Debug\AperBascu.frmPesajeModifica.resources
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\obj\Debug\AperBascu.frmRegistroCertificado.resources
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\obj\Debug\AperBascu.frmUsuarioAccesos.resources
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\obj\Debug\AperBascu.Genera_ReporteCatalogos.resources
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\obj\Debug\AperBascu.MDIMenu.resources
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\obj\Debug\AperBascu.MensajesBascula.resources
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\obj\Debug\AperBascu.RepAnalitico.resources
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\obj\Debug\AperBascu.RepCierreTurno.resources
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\obj\Debug\AperBascu.RepLogBL.resources
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\obj\Debug\AperBascu.ReporteBascula1.resources
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\obj\Debug\AperBascu.ReportePorFecha.resources
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\obj\Debug\AperBascu.RepPorFecha.resources
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\obj\Debug\AperBascu.BuscaCodigo.resources
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\obj\Debug\AperBascu.BuscaCodigoA.resources
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\obj\Debug\AperBascu.frmActivarComputadora.resources
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\obj\Debug\AperBascu.frmArticulos.resources
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\obj\Debug\AperBascu.frmBasculas.resources
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\obj\Debug\AperBascu.frmBuques.resources
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\obj\Debug\AperBascu.frmCalbracion.resources
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\obj\Debug\AperBascu.frmClaseCarca.resources
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\obj\Debug\AperBascu.frmClientes.resources
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\obj\Debug\AperBascu.frmConfiguracionPuerto.resources
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\obj\Debug\AperBascu.frmConsultaBoleta.resources
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\obj\Debug\AperBascu.frmContenedores.resources
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\obj\Debug\AperBascu.frmCorrealtivo.resources
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\obj\Debug\AperBascu.frmEntradasInventario.resources
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\obj\Debug\AperBascu.frmFlotillaCamiones.resources
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\obj\Debug\AperBascu.frmPaises.resources
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\obj\Debug\AperBascu.frmPesaje.resources
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\obj\Debug\AperBascu.frmPesosMM.resources
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\obj\Debug\AperBascu.frmProducto.resources
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\obj\Debug\AperBascu.frmRegistroCalibracion.resources
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\obj\Debug\AperBascu.frmTomaPesaje.resources
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\obj\Debug\AperBascu.frmTransporte.resources
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\obj\Debug\AperBascu.frmTurnos.resources
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\obj\Debug\AperBascu.frmUsuario.resources
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\obj\Debug\AperBascu.PrueReporte.resources
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\obj\Debug\AperBascu.RepListadosCatalogos.resources
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\obj\Debug\AperBascu.Login.resources
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\obj\Debug\AperBascu.RepPorFechaBL.resources
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\obj\Debug\AperBascu.Resources.resources
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\obj\Debug\AperBascu.Rview_Bascula.resources
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\obj\Debug\AperBascu.Rview_Buques.resources
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\obj\Debug\AperBascu.Rview_Camiones.resources
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\obj\Debug\AperBascu.Rview_Clientes.resources
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\obj\Debug\AperBascu.Rview_Productos.resources
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\obj\Debug\AperBascu.Rview_Transporte.resources
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\obj\Debug\AperBascu.Rview_Usuarios.resources
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\obj\Debug\AperBascu.vbproj.GenerateResource.cache
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\obj\Debug\AperBascu.vbproj.CoreCompileInputs.cache
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\bin\Debug\AperBascu.exe.config
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\bin\Debug\AperBascu.exe
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\bin\Debug\AperBascu.pdb
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\bin\Debug\AperBascu.xml
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\bin\Debug\System.Memory.dll
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\bin\Debug\EnvDTE.dll
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\bin\Debug\stdole.dll
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\bin\Debug\EPPlus.xml
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\bin\Debug\Microsoft.CodeAnalysis.xml
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\bin\Debug\Microsoft.CodeAnalysis.CSharp.xml
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\bin\Debug\System.Buffers.xml
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\bin\Debug\System.Reflection.Metadata.xml
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\bin\Debug\TomaPesoLib.pdb
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Desarrollador Jr\Desktop\Aperson_FacInv\obj\Debug\AperBascu.vbproj.Up2Date
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\AperBascu.exe.config
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\AperBascu.exe
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\AperBascu.pdb
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\AperBascu.xml
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\EPPlus.dll
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\Microsoft.CodeAnalysis.dll
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\Newtonsoft.Json.dll
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\System.Buffers.dll
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\System.Collections.Immutable.dll
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\System.Memory.dll
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\System.Reflection.Metadata.dll
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\System.Security.Cryptography.Xml.dll
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\System.ValueTuple.dll
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\EnvDTE.dll
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\stdole.dll
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\Microsoft.MSXML.dll
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\EPPlus.xml
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\Microsoft.CodeAnalysis.xml
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\Microsoft.CodeAnalysis.CSharp.xml
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\Newtonsoft.Json.xml
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\System.Buffers.xml
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\System.Collections.Immutable.xml
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\System.Memory.xml
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\System.Reflection.Metadata.xml
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\System.ValueTuple.xml
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\TomaPesoLib.pdb
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.vbproj.AssemblyReference.cache
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.exe.config
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.vbproj.ResolveComReference.cache
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmAnulaBoleta.resources
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmBodega.resources
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmCargaMasiva.resources
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmCarga_Placas.resources
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmCierreTurno.resources
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmConsignatario.resources
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmConsultaBoletaII.resources
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmControlBLs.resources
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmCorteTurno.resources
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmParametro.resources
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmPesajeEspecial.resources
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmPesajeModifica.resources
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmRegistroCertificado.resources
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmUsuarioAccesos.resources
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.Genera_ReporteCatalogos.resources
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.MDIMenu.resources
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.MensajesBascula.resources
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.RepAnalitico.resources
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.RepCierreTurno.resources
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.RepLogBL.resources
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.ReporteBascula1.resources
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.ReportePorFecha.resources
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.RepPorFecha.resources
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.BuscaCodigo.resources
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.BuscaCodigoA.resources
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmActivarComputadora.resources
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmArticulos.resources
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmBasculas.resources
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmBuques.resources
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmCalbracion.resources
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmClaseCarca.resources
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmClientes.resources
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmConfiguracionPuerto.resources
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmConsultaBoleta.resources
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmContenedores.resources
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmCorrealtivo.resources
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmEntradasInventario.resources
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmFlotillaCamiones.resources
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmPaises.resources
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmPesaje.resources
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmPesosMM.resources
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmProducto.resources
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmRegistroCalibracion.resources
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmTomaPesaje.resources
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmTransporte.resources
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmTurnos.resources
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.frmUsuario.resources
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.PrueReporte.resources
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.RepListadosCatalogos.resources
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.Login.resources
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.RepPorFechaBL.resources
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.Resources.resources
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.Rview_Bascula.resources
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.Rview_Buques.resources
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.Rview_Camiones.resources
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.Rview_Clientes.resources
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.Rview_Productos.resources
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.Rview_Transporte.resources
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.Rview_Usuarios.resources
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.vbproj.GenerateResource.cache
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.vbproj.CoreCompileInputs.cache
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.vbproj.Up2Date
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.exe
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.xml
+C:\Users\EnriqueCruzProgramad\OneDrive - Interport Group\Escritorio\Aperson_FacInv_CR\Aperson_FacInv\obj\Debug\AperBascu.pdb

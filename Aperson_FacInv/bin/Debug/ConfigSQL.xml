@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<appSettings>
+  <!--PATH para SQL server -->
+ 
+ <!--<add key="SQLPath" value="Data Source=DKGTDESHERNANDE\SQLEXPRESS;Initial Catalog=DbAperBascu;Integrated Security=True"/>-->
+
+ <!--<add key="SQLPath" value="SAUL\SQLEXPRESS; Initial Catalog=DbAperBascu; User Id=sa; Password=@Sha123;"/>-->
+ 
+ <!--<<add key="DataServer" value="DESKTOP-JP00DCB"/>-->
+ <!--<<add key="DataServer" value="192.168.10.240,1433"/>-->
+
+<!--<add key="DataServer" value="170.239.56.13,9090"/>
+ <add key="DataBase" value="DbAperBascuCG"/>
+ <add key="DataUser" value="sa"/>
+ <add key="DataPassword" value="1234567890"/>
+<add key="Reportes" value="C:\Users\Desarrollador Jr\Documents\Aperson_FacInv\Forms"/>-->
+
+<add key="DataServer" value="181.78.49.119,9090"/>
+<!-- <add key="DataServer" value="(localdb)\MSSQLLocalDB"/> -->
+ <add key="DataBase" value="DbAperBascuCG"/>
+ <add key="DataUser" value="sa"/>
+ <add key="DataPassword" value="1234567890"/>
+ <add key="Reportes" value="C:\Users\PROGRAMACION\Desktop\Aperson_FacInv_CR\Aperson_FacInv\Forms"/>
+	
+ 
+ <!--<add key="SQLPathODBC" value="DSN=DBBascula;Uid=sa;pwd=@Sha123;"/>-->
+ <add key="TBoleta" value="T"/>  <!--T=Ticket, B=Boleta-->
+  
+  <add key="PantallaCompleta" value="1"/>
+  <!--0=pantalla normal, 1=Pantalla Completa
+   <add key="SQLPath" value="Server=DESKTOP-JP00DCB; Initial Catalog=DbAperBascu; User Id=sa; Password=1234;"/>
+   <add key="SQLPath" value="Server=127.0.0.1,1433; Initial Catalog=DbAperBascu; User Id=sa; Password=1234;"/>  -->
+
+   <!--Puerto COM de la PC-->   
+  <add key="PuertoCOM" value="COM3"/> 
+
+  <!--Bits por Segundo-->
+  <add key="BitsxS" value="9600"/> 
+
+  <!--Entorno-->
+  <add key="Bascula" value="01"/> 
+  <add key="Empresa" value="1"/> 
+  
+
+</appSettings>

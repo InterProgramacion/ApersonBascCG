@@ -1,0 +1,147 @@
+C:\Users\SDE\Documents\Visual Studio 2008\Projects\Aperson_FacInv\Aperson_FacInv\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\SDE\Documents\Visual Studio 2008\Projects\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.frmBodegas.resources
+C:\Users\SDE\Documents\Visual Studio 2008\Projects\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.frmGrupos.resources
+C:\Users\SDE\Documents\Visual Studio 2008\Projects\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.MDIMenu.resources
+C:\Users\SDE\Documents\Visual Studio 2008\Projects\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.Resources.resources
+C:\Users\SDE\Documents\Visual Studio 2008\Projects\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.vbproj.GenerateResource.Cache
+C:\Users\SDE\Documents\Visual Studio 2008\Projects\Aperson_FacInv\Aperson_FacInv\bin\Debug\Aperson_FacInv.exe
+C:\Users\SDE\Documents\Visual Studio 2008\Projects\Aperson_FacInv\Aperson_FacInv\bin\Debug\Aperson_FacInv.pdb
+C:\Users\SDE\Documents\Visual Studio 2008\Projects\Aperson_FacInv\Aperson_FacInv\bin\Debug\Aperson_FacInv.xml
+C:\Users\SDE\Documents\Visual Studio 2008\Projects\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.BuscaCodigo.resources
+C:\Users\SDE\Documents\Visual Studio 2008\Projects\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.exe
+C:\Users\SDE\Documents\Visual Studio 2008\Projects\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.xml
+C:\Users\SDE\Documents\Visual Studio 2008\Projects\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.pdb
+C:\Users\SDE\Documents\Visual Studio 2008\Projects\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.frmSubGrupo.resources
+C:\Users\SDE\Documents\Visual Studio 2008\Projects\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.frmLineas.resources
+C:\Users\SDE\Documents\Visual Studio 2008\Projects\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.frmTipoArticulo.resources
+C:\Users\SDE\Documents\Visual Studio 2008\Projects\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.frmVendedores.resources
+C:\Users\SDE\Documents\Visual Studio 2008\Projects\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.frmMarcas.resources
+C:\Users\SDE\Documents\Visual Studio 2008\Projects\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.frmClientes.resources
+C:\Users\SDE\Documents\Visual Studio 2008\Projects\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.frmRutas.resources
+C:\Users\SDE\Documents\Visual Studio 2008\Projects\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.frmUnidadesDistribu.resources
+C:\Users\SDE\Documents\Visual Studio 2008\Projects\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.frmCarteraClientes.resources
+C:\Users\SDE\Documents\Visual Studio 2008\Projects\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.frmProveedores.resources
+C:\Users\SDE\Documents\Visual Studio 2008\Projects\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.frmArticulos.resources
+C:\Users\SDE\Documents\Visual Studio 2008\Projects\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.frmMotivosInventario.resources
+C:\Users\SDE\Documents\Visual Studio 2008\Projects\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.frmEntradasInventario.resources
+C:\Users\SDE\Documents\Visual Studio 2008\Projects\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.frmSalidasInventario.resources
+C:\Users\SDE\Documents\Visual Studio 2008\Projects\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.BuscaCodigoA.resources
+E:\SistemasSde\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.exe
+E:\SistemasSde\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.xml
+E:\SistemasSde\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.pdb
+E:\SistemasSde\Aperson_FacInv\Aperson_FacInv\bin\Debug\Aperson_FacInv.exe
+E:\SistemasSde\Aperson_FacInv\Aperson_FacInv\bin\Debug\Aperson_FacInv.pdb
+E:\SistemasSde\Aperson_FacInv\Aperson_FacInv\bin\Debug\Aperson_FacInv.xml
+E:\SistemasSde\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.BuscaCodigo.resources
+E:\SistemasSde\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.BuscaCodigoA.resources
+E:\SistemasSde\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.frmArticulos.resources
+E:\SistemasSde\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.frmCarteraClientes.resources
+E:\SistemasSde\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.frmBodegas.resources
+E:\SistemasSde\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.frmClientes.resources
+E:\SistemasSde\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.frmEntradasInventario.resources
+E:\SistemasSde\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.frmGrupos.resources
+E:\SistemasSde\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.frmLineas.resources
+E:\SistemasSde\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.frmMotivosInventario.resources
+E:\SistemasSde\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.frmProveedores.resources
+E:\SistemasSde\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.frmRutas.resources
+E:\SistemasSde\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.frmSalidasInventario.resources
+E:\SistemasSde\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.frmSubGrupo.resources
+E:\SistemasSde\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.frmTipoArticulo.resources
+E:\SistemasSde\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.frmVendedores.resources
+E:\SistemasSde\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.MDIMenu.resources
+E:\SistemasSde\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.frmMarcas.resources
+E:\SistemasSde\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.frmUnidadesDistribu.resources
+E:\SistemasSde\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.Resources.resources
+E:\SistemasSde\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.vbproj.GenerateResource.Cache
+C:\Saul_InterPort\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.exe
+C:\Saul_InterPort\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.xml
+C:\Saul_InterPort\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.pdb
+C:\Saul_InterPort\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.BuscaCodigo.resources
+C:\Saul_InterPort\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.BuscaCodigoA.resources
+C:\Saul_InterPort\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.frmArticulos.resources
+C:\Saul_InterPort\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.frmCierre_por_Usuarios.resources
+C:\Saul_InterPort\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.frmFlotilla_de_Camiones.resources
+C:\Saul_InterPort\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.frmPais_Origen_y_Destino.resources
+C:\Saul_InterPort\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.frmPesos_min_y_Max___Tara_Araña_PesoBruto_.resources
+C:\Saul_InterPort\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.frmProductos.resources
+C:\Saul_InterPort\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.frmBodegas.resources
+C:\Saul_InterPort\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.frmClientes.resources
+C:\Saul_InterPort\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.frmEntradasInventario.resources
+C:\Saul_InterPort\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.frmGrupos.resources
+C:\Saul_InterPort\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.frmLineas.resources
+C:\Saul_InterPort\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.frmMotivosInventario.resources
+C:\Saul_InterPort\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.frmProveedores.resources
+C:\Saul_InterPort\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.frmRutas.resources
+C:\Saul_InterPort\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.frmSalidasInventario.resources
+C:\Saul_InterPort\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.frmSubGrupo.resources
+C:\Saul_InterPort\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.frmTipoArticulo.resources
+C:\Saul_InterPort\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.FrmTurnos.resources
+C:\Saul_InterPort\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.frmUsuarios_y_Operadores_de_Bascula.resources
+C:\Saul_InterPort\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.frmVendedores.resources
+C:\Saul_InterPort\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.MDIMenu.resources
+C:\Saul_InterPort\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.frmMarcas.resources
+C:\Saul_InterPort\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.frmUnidadesDistribu.resources
+C:\Saul_InterPort\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.Resources.resources
+C:\Saul_InterPort\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.vbproj.GenerateResource.Cache
+D:\ProgravbNet\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.exe
+D:\ProgravbNet\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.xml
+D:\ProgravbNet\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.pdb
+D:\ProgravbNet\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.BuscaCodigo.resources
+D:\ProgravbNet\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.BuscaCodigoA.resources
+D:\ProgravbNet\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.frmArticulos.resources
+D:\ProgravbNet\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.frmClientes.resources
+D:\ProgravbNet\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.frmEntradasInventario.resources
+D:\ProgravbNet\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.MDIMenu.resources
+D:\ProgravbNet\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.Resources.resources
+D:\ProgravbNet\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.vbproj.GenerateResource.Cache
+D:\ProgravbNet\Aperson_FacInv\Aperson_FacInv\bin\Debug\Aperson_FacInv.exe
+D:\ProgravbNet\Aperson_FacInv\Aperson_FacInv\bin\Debug\Aperson_FacInv.pdb
+D:\ProgravbNet\Aperson_FacInv\Aperson_FacInv\bin\Debug\Aperson_FacInv.xml
+D:\ProgravbNet\Aperson_FacInv\Aperson_FacInv\bin\Debug\Aperson_FacInv.exe.config
+D:\ProgravbNet\Aperson_FacInv\Aperson_FacInv\bin\Release\Aperson_FacInv.exe.config
+D:\ProgravbNet\Aperson_FacInv\Aperson_FacInv\bin\Release\Aperson_FacInv.exe
+D:\ProgravbNet\Aperson_FacInv\Aperson_FacInv\bin\Release\Aperson_FacInv.pdb
+D:\ProgravbNet\Aperson_FacInv\Aperson_FacInv\bin\Release\Aperson_FacInv.xml
+D:\ProgravbNet\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.frmProducto.resources
+D:\ProgravbNet\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.frmTurnos.resources
+D:\ProgravbNet\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.frmFlotillaCamiones.resources
+D:\ProgravbNet\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.frmContenedores.resources
+D:\ProgravbNet\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.frmClaseCarca.resources
+D:\ProgravbNet\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.frmPaises.resources
+D:\ProgravbNet\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.frmPesosMM.resources
+D:\ProgravbNet\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.frmUsuario.resources
+D:\ProgravbNet\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.frmActivarComputadora.resources
+D:\ProgravbNet\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.frmBasculas.resources
+D:\ProgravbNet\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.frmCalbracion.resources
+D:\ProgravbNet\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.frmConfiguracionPuerto.resources
+D:\ProgravbNet\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.frmCorrealtivo.resources
+D:\ProgravbNet\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.frmRegistroCalibracion.resources
+D:\ProgravbNet\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.frmPesaje.resources
+C:\Saul_InterPort\ProgravbNet\Aperson_FacInv\Aperson_FacInv\bin\Release\Aperson_FacInv.exe.config
+C:\Saul_InterPort\ProgravbNet\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.exe
+C:\Saul_InterPort\ProgravbNet\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.xml
+C:\Saul_InterPort\ProgravbNet\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.pdb
+C:\Saul_InterPort\ProgravbNet\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.BuscaCodigo.resources
+C:\Saul_InterPort\ProgravbNet\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.BuscaCodigoA.resources
+C:\Saul_InterPort\ProgravbNet\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.frmActivarComputadora.resources
+C:\Saul_InterPort\ProgravbNet\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.frmArticulos.resources
+C:\Saul_InterPort\ProgravbNet\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.frmBasculas.resources
+C:\Saul_InterPort\ProgravbNet\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.frmBuques.resources
+C:\Saul_InterPort\ProgravbNet\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.frmCalbracion.resources
+C:\Saul_InterPort\ProgravbNet\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.frmClaseCarca.resources
+C:\Saul_InterPort\ProgravbNet\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.frmClientes.resources
+C:\Saul_InterPort\ProgravbNet\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.frmConfiguracionPuerto.resources
+C:\Saul_InterPort\ProgravbNet\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.frmContenedores.resources
+C:\Saul_InterPort\ProgravbNet\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.frmCorrealtivo.resources
+C:\Saul_InterPort\ProgravbNet\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.frmEntradasInventario.resources
+C:\Saul_InterPort\ProgravbNet\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.frmFlotillaCamiones.resources
+C:\Saul_InterPort\ProgravbNet\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.frmPaises.resources
+C:\Saul_InterPort\ProgravbNet\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.frmPesaje.resources
+C:\Saul_InterPort\ProgravbNet\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.frmPesosMM.resources
+C:\Saul_InterPort\ProgravbNet\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.frmProducto.resources
+C:\Saul_InterPort\ProgravbNet\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.frmRegistroCalibracion.resources
+C:\Saul_InterPort\ProgravbNet\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.frmTurnos.resources
+C:\Saul_InterPort\ProgravbNet\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.frmUsuario.resources
+C:\Saul_InterPort\ProgravbNet\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.MDIMenu.resources
+C:\Saul_InterPort\ProgravbNet\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.Resources.resources
+C:\Saul_InterPort\ProgravbNet\Aperson_FacInv\Aperson_FacInv\obj\Debug\Aperson_FacInv.vbproj.GenerateResource.Cache

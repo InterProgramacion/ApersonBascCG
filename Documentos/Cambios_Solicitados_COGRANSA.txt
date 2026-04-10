@@ -1,0 +1,160 @@
+**PESAJE**
+
+
+GRANEL  / OTROS
+=======================
+*No de Placa 
+Ingresar desde Pesaje
+
+*Clase a Granel
+GRANEL
+
+*Tipo de Carga
+Exportación = Recepción	
+Importación = Despacho 
+
+*Buque
+No poner definidos
+
+*Bodega 
+No necesitan (quitarla)
+
+*Producto Si
+
+*Pais Origen  No
+*Pais Destino No
+
+*Naviera = Empresa
+ 
+*Buque = "RECEPCION"
+
+
+
+
+
+CONTENEDOR
+=======================
+*No de Placa 
+Ingresar desde Pesaje
+
+*Clase a Granel
+CONTENEDOR
+(quitar FLAT RAK)
+
+Frejijo
+No Contenedor
+Medida
+Tipo Carga
+
+*Tipo de Carga
+Exportación = Recepción	
+
+Entrada
+Camión CONTEDOR
+Peso Tara Contedor
+
+
+a) Poner enter a los campos contenedores
+	txtPrefijo
+	txtContenedor
+	txtMedida
+	txtTipoCarga
+	txtDiceContenedor
+
+b) Cuando es dice contenedor saltar a Tipo Operación
+c) Pero es Peso araña saltar a toma de Peso
+
+
+20,000.00 Peso Bruto
+2,300.00  Peso Tara Contenedor
+=============
+17,700.00  = NETO
+
+Salida (descargada)
+10,000.00 Peso Tara de Vehiculo
+=============
+ 7,700.00  = NETO
+
+VGM = 7,7000.00 + 2300.00 = 10,000.00
+
+
+Importación = Despacho 
+
+
+Salida 
+10,000.00 Peso Tara de Vehiculo
+=============
+10,000.00  = NETO
+
+Entrada (Cargara)
+Camión CONTEDOR
+Peso Tara Contedor
+
+20,000.00 Peso Bruto  (Bascula)
+2,300.00  Peso Tara Contenedor
+=============
+17,700.00  = NETO
+
+10,000.00 = NETO 7,700.00
+
+VGM = 7,7000.00 + 2300.00 = 10,000.00
+
+
+*Buque
+No poner definidos "0" = "PATIO DE RECEPCION"
+
+*Bodega 
+No necesitan (quitarla)
+
+*Producto Si
+
+*Pais Origen  No
+*Pais Destino No
+
+*Naviera = Empresa
+ 
+*Tara del Vehiculo = Peso Tara 
+
+
+*-Solo cuando es Granel - 
+*Quitar la Validacion de BL
+
+
+Solo cuando lleva BL
+**Quintales - en Pantalla Boleta
+Neto 10000.00 (kilo) * 2.46 lB / 100 = Quintales
+
+Cambiar Viaje para Alfanumerico
+
+
+
+*-Cambios Carlitos
+1.- Mostrar Quintales en Pantalla				ok
+2.- Permitir Buques sin BL					ok
+3.- Registro Calibración					ok	
+4.- Registro Certificación					ok
+5.- Mejorar Reportes que no muestren Camión ni Bodegas
+6.- Corregir en los Reportes BL Hora Entrada y Hora Salida
+	RepPorFecha						ok
+	RepAnalitico
+	RepPorFechaBL
+7.- Cambiar en los Reportes Naviera por Empresa			ok
+8.- Cambiar Viaje poner Caracteres		50%	
+
+9.- Contedores
+
+txtNaviera_Validating
+txtNaviera_PreviewKeyDown
+txtNaviera_KeyDown
+
+MAX(ISNULL(convert(datetime, fechahora_entrada_pes,108),'')) As hora_entrada_pes,
+
+
+"BUQUE: " + toText({sp_RepAnaliticosBL;1.Idbuq_pes},"0") + " - " +{sp_RepAnaliticosBL;1.nombre_buq} + "  " + "VIAJE: " + {sp_RepAnaliticosBL;1.viaje_buque_dbq}
+
+
+txtPrefijo.Text = ""
+txtContenedor.Text = ""
+txtMedida.Text = ""
+txtTipoCarga.Text = ""
+txtDiceContenedor.Text = ""

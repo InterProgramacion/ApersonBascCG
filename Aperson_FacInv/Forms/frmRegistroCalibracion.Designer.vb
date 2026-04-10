@@ -1,0 +1,450 @@
+﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _
+Partial Class frmRegistroCalibracion
+    Inherits System.Windows.Forms.Form
+
+    'Form overrides dispose to clean up the component list.
+    <System.Diagnostics.DebuggerNonUserCode()> _
+    Protected Overrides Sub Dispose(ByVal disposing As Boolean)
+        Try
+            If disposing AndAlso components IsNot Nothing Then
+                components.Dispose()
+            End If
+        Finally
+            MyBase.Dispose(disposing)
+        End Try
+    End Sub
+
+    'Required by the Windows Form Designer
+    Private components As System.ComponentModel.IContainer
+
+    'NOTE: The following procedure is required by the Windows Form Designer
+    'It can be modified using the Windows Form Designer.  
+    'Do not modify it using the code editor.
+    <System.Diagnostics.DebuggerStepThrough()> _
+    Private Sub InitializeComponent()
+        Me.Label1 = New System.Windows.Forms.Label()
+        Me.Label4 = New System.Windows.Forms.Label()
+        Me.GroupBox2 = New System.Windows.Forms.GroupBox()
+        Me.Label11 = New System.Windows.Forms.Label()
+        Me.txtDiasFalta = New System.Windows.Forms.TextBox()
+        Me.Label10 = New System.Windows.Forms.Label()
+        Me.dpFechaProxima = New System.Windows.Forms.DateTimePicker()
+        Me.Label6 = New System.Windows.Forms.Label()
+        Me.txtRegCPN = New System.Windows.Forms.TextBox()
+        Me.dpFechaCalibra = New System.Windows.Forms.DateTimePicker()
+        Me.Label9 = New System.Windows.Forms.Label()
+        Me.txtRegistro = New System.Windows.Forms.TextBox()
+        Me.Label8 = New System.Windows.Forms.Label()
+        Me.Label2 = New System.Windows.Forms.Label()
+        Me.cmbBascula = New System.Windows.Forms.ComboBox()
+        Me.txtAcreditado = New System.Windows.Forms.TextBox()
+        Me.Label7 = New System.Windows.Forms.Label()
+        Me.txtProveedor = New System.Windows.Forms.TextBox()
+        Me.Label5 = New System.Windows.Forms.Label()
+        Me.txtId = New System.Windows.Forms.TextBox()
+        Me.btnBuscar = New System.Windows.Forms.Button()
+        Me.Label3 = New System.Windows.Forms.Label()
+        Me.GroupBox3 = New System.Windows.Forms.GroupBox()
+        Me.btnsiguiente = New System.Windows.Forms.Button()
+        Me.btnGrabar = New System.Windows.Forms.Button()
+        Me.btnSalir = New System.Windows.Forms.Button()
+        Me.btnanterior = New System.Windows.Forms.Button()
+        Me.btnultimo = New System.Windows.Forms.Button()
+        Me.btnBorrar = New System.Windows.Forms.Button()
+        Me.btnNuevo = New System.Windows.Forms.Button()
+        Me.btnprimero = New System.Windows.Forms.Button()
+        Me.GroupBox2.SuspendLayout()
+        Me.GroupBox3.SuspendLayout()
+        Me.SuspendLayout()
+        '
+        'Label1
+        '
+        Me.Label1.AutoSize = True
+        Me.Label1.Location = New System.Drawing.Point(85, 28)
+        Me.Label1.Name = "Label1"
+        Me.Label1.Size = New System.Drawing.Size(19, 13)
+        Me.Label1.TabIndex = 1
+        Me.Label1.Text = "Id:"
+        '
+        'Label4
+        '
+        Me.Label4.AutoSize = True
+        Me.Label4.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label4.ForeColor = System.Drawing.Color.Navy
+        Me.Label4.Location = New System.Drawing.Point(12, 6)
+        Me.Label4.Name = "Label4"
+        Me.Label4.Size = New System.Drawing.Size(198, 24)
+        Me.Label4.TabIndex = 7
+        Me.Label4.Text = "Registro Calibración"
+        '
+        'GroupBox2
+        '
+        Me.GroupBox2.Controls.Add(Me.Label11)
+        Me.GroupBox2.Controls.Add(Me.txtDiasFalta)
+        Me.GroupBox2.Controls.Add(Me.Label10)
+        Me.GroupBox2.Controls.Add(Me.dpFechaProxima)
+        Me.GroupBox2.Controls.Add(Me.Label6)
+        Me.GroupBox2.Controls.Add(Me.txtRegCPN)
+        Me.GroupBox2.Controls.Add(Me.dpFechaCalibra)
+        Me.GroupBox2.Controls.Add(Me.Label9)
+        Me.GroupBox2.Controls.Add(Me.txtRegistro)
+        Me.GroupBox2.Controls.Add(Me.Label8)
+        Me.GroupBox2.Controls.Add(Me.Label2)
+        Me.GroupBox2.Controls.Add(Me.cmbBascula)
+        Me.GroupBox2.Controls.Add(Me.txtAcreditado)
+        Me.GroupBox2.Controls.Add(Me.Label7)
+        Me.GroupBox2.Controls.Add(Me.txtProveedor)
+        Me.GroupBox2.Controls.Add(Me.Label5)
+        Me.GroupBox2.Controls.Add(Me.txtId)
+        Me.GroupBox2.Controls.Add(Me.btnBuscar)
+        Me.GroupBox2.Controls.Add(Me.Label1)
+        Me.GroupBox2.Controls.Add(Me.Label3)
+        Me.GroupBox2.Location = New System.Drawing.Point(12, 41)
+        Me.GroupBox2.Name = "GroupBox2"
+        Me.GroupBox2.Size = New System.Drawing.Size(689, 223)
+        Me.GroupBox2.TabIndex = 40
+        Me.GroupBox2.TabStop = False
+        Me.GroupBox2.Text = "Datos Generales"
+        '
+        'Label11
+        '
+        Me.Label11.AutoSize = True
+        Me.Label11.Location = New System.Drawing.Point(510, 195)
+        Me.Label11.Name = "Label11"
+        Me.Label11.Size = New System.Drawing.Size(30, 13)
+        Me.Label11.TabIndex = 47
+        Me.Label11.Text = "Días"
+        '
+        'txtDiasFalta
+        '
+        Me.txtDiasFalta.Location = New System.Drawing.Point(430, 191)
+        Me.txtDiasFalta.Name = "txtDiasFalta"
+        Me.txtDiasFalta.Size = New System.Drawing.Size(77, 20)
+        Me.txtDiasFalta.TabIndex = 10
+        '
+        'Label10
+        '
+        Me.Label10.AutoSize = True
+        Me.Label10.Location = New System.Drawing.Point(347, 195)
+        Me.Label10.Name = "Label10"
+        Me.Label10.Size = New System.Drawing.Size(84, 13)
+        Me.Label10.TabIndex = 46
+        Me.Label10.Text = "Alertar Faltando:"
+        '
+        'dpFechaProxima
+        '
+        Me.dpFechaProxima.Format = System.Windows.Forms.DateTimePickerFormat.[Short]
+        Me.dpFechaProxima.Location = New System.Drawing.Point(158, 188)
+        Me.dpFechaProxima.Name = "dpFechaProxima"
+        Me.dpFechaProxima.Size = New System.Drawing.Size(109, 20)
+        Me.dpFechaProxima.TabIndex = 9
+        '
+        'Label6
+        '
+        Me.Label6.AutoSize = True
+        Me.Label6.Location = New System.Drawing.Point(48, 191)
+        Me.Label6.Name = "Label6"
+        Me.Label6.Size = New System.Drawing.Size(80, 13)
+        Me.Label6.TabIndex = 44
+        Me.Label6.Text = "Proxima Fecha:"
+        '
+        'txtRegCPN
+        '
+        Me.txtRegCPN.Location = New System.Drawing.Point(305, 50)
+        Me.txtRegCPN.Name = "txtRegCPN"
+        Me.txtRegCPN.Size = New System.Drawing.Size(245, 20)
+        Me.txtRegCPN.TabIndex = 2
+        '
+        'dpFechaCalibra
+        '
+        Me.dpFechaCalibra.Format = System.Windows.Forms.DateTimePickerFormat.[Short]
+        Me.dpFechaCalibra.Location = New System.Drawing.Point(158, 162)
+        Me.dpFechaCalibra.Name = "dpFechaCalibra"
+        Me.dpFechaCalibra.Size = New System.Drawing.Size(109, 20)
+        Me.dpFechaCalibra.TabIndex = 7
+        '
+        'Label9
+        '
+        Me.Label9.AutoSize = True
+        Me.Label9.Location = New System.Drawing.Point(48, 165)
+        Me.Label9.Name = "Label9"
+        Me.Label9.Size = New System.Drawing.Size(95, 13)
+        Me.Label9.TabIndex = 42
+        Me.Label9.Text = "Fecha Calibración:"
+        '
+        'txtRegistro
+        '
+        Me.txtRegistro.Location = New System.Drawing.Point(430, 164)
+        Me.txtRegistro.Name = "txtRegistro"
+        Me.txtRegistro.Size = New System.Drawing.Size(239, 20)
+        Me.txtRegistro.TabIndex = 8
+        '
+        'Label8
+        '
+        Me.Label8.AutoSize = True
+        Me.Label8.Location = New System.Drawing.Point(347, 168)
+        Me.Label8.Name = "Label8"
+        Me.Label8.Size = New System.Drawing.Size(54, 13)
+        Me.Label8.TabIndex = 40
+        Me.Label8.Text = "Serie No.:"
+        '
+        'Label2
+        '
+        Me.Label2.AutoSize = True
+        Me.Label2.Location = New System.Drawing.Point(48, 80)
+        Me.Label2.Name = "Label2"
+        Me.Label2.Size = New System.Drawing.Size(68, 13)
+        Me.Label2.TabIndex = 38
+        Me.Label2.Text = "No. Bascula:"
+        '
+        'cmbBascula
+        '
+        Me.cmbBascula.FormattingEnabled = True
+        Me.cmbBascula.Location = New System.Drawing.Point(158, 76)
+        Me.cmbBascula.Name = "cmbBascula"
+        Me.cmbBascula.Size = New System.Drawing.Size(314, 21)
+        Me.cmbBascula.TabIndex = 3
+        '
+        'txtAcreditado
+        '
+        Me.txtAcreditado.Location = New System.Drawing.Point(158, 134)
+        Me.txtAcreditado.Name = "txtAcreditado"
+        Me.txtAcreditado.Size = New System.Drawing.Size(314, 20)
+        Me.txtAcreditado.TabIndex = 6
+        '
+        'Label7
+        '
+        Me.Label7.AutoSize = True
+        Me.Label7.Location = New System.Drawing.Point(48, 137)
+        Me.Label7.Name = "Label7"
+        Me.Label7.Size = New System.Drawing.Size(87, 13)
+        Me.Label7.TabIndex = 36
+        Me.Label7.Text = "Acreditado OGA:"
+        '
+        'txtProveedor
+        '
+        Me.txtProveedor.Location = New System.Drawing.Point(158, 104)
+        Me.txtProveedor.Name = "txtProveedor"
+        Me.txtProveedor.Size = New System.Drawing.Size(511, 20)
+        Me.txtProveedor.TabIndex = 4
+        '
+        'Label5
+        '
+        Me.Label5.AutoSize = True
+        Me.Label5.Location = New System.Drawing.Point(48, 108)
+        Me.Label5.Name = "Label5"
+        Me.Label5.Size = New System.Drawing.Size(108, 13)
+        Me.Label5.TabIndex = 29
+        Me.Label5.Text = "Empresa /Proveedor:"
+        '
+        'txtId
+        '
+        Me.txtId.Enabled = False
+        Me.txtId.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.txtId.Location = New System.Drawing.Point(158, 21)
+        Me.txtId.Name = "txtId"
+        Me.txtId.Size = New System.Drawing.Size(60, 22)
+        Me.txtId.TabIndex = 0
+        '
+        'btnBuscar
+        '
+        Me.btnBuscar.FlatStyle = System.Windows.Forms.FlatStyle.Flat
+        Me.btnBuscar.Image = Global.AperBascu.My.Resources.Resources.LOCATE
+        Me.btnBuscar.Location = New System.Drawing.Point(130, 21)
+        Me.btnBuscar.Name = "btnBuscar"
+        Me.btnBuscar.Size = New System.Drawing.Size(22, 20)
+        Me.btnBuscar.TabIndex = 1
+        Me.btnBuscar.UseVisualStyleBackColor = True
+        '
+        'Label3
+        '
+        Me.Label3.AutoSize = True
+        Me.Label3.Location = New System.Drawing.Point(104, 53)
+        Me.Label3.Name = "Label3"
+        Me.Label3.Size = New System.Drawing.Size(191, 13)
+        Me.Label3.TabIndex = 3
+        Me.Label3.Text = "CERTIFICADO de Calibración Número:"
+        '
+        'GroupBox3
+        '
+        Me.GroupBox3.Controls.Add(Me.btnsiguiente)
+        Me.GroupBox3.Controls.Add(Me.btnGrabar)
+        Me.GroupBox3.Controls.Add(Me.btnSalir)
+        Me.GroupBox3.Controls.Add(Me.btnanterior)
+        Me.GroupBox3.Controls.Add(Me.btnultimo)
+        Me.GroupBox3.Controls.Add(Me.btnBorrar)
+        Me.GroupBox3.Controls.Add(Me.btnNuevo)
+        Me.GroupBox3.Controls.Add(Me.btnprimero)
+        Me.GroupBox3.Location = New System.Drawing.Point(12, 280)
+        Me.GroupBox3.Name = "GroupBox3"
+        Me.GroupBox3.Size = New System.Drawing.Size(689, 112)
+        Me.GroupBox3.TabIndex = 28
+        Me.GroupBox3.TabStop = False
+        Me.GroupBox3.Text = "Botones Utilitarios"
+        '
+        'btnsiguiente
+        '
+        Me.btnsiguiente.AutoSize = True
+        Me.btnsiguiente.FlatStyle = System.Windows.Forms.FlatStyle.Flat
+        Me.btnsiguiente.Image = Global.AperBascu.My.Resources.Resources.navigate_right32
+        Me.btnsiguiente.Location = New System.Drawing.Point(88, 35)
+        Me.btnsiguiente.Name = "btnsiguiente"
+        Me.btnsiguiente.Size = New System.Drawing.Size(40, 56)
+        Me.btnsiguiente.TabIndex = 12
+        Me.btnsiguiente.UseVisualStyleBackColor = True
+        '
+        'btnGrabar
+        '
+        Me.btnGrabar.AutoSize = True
+        Me.btnGrabar.BackColor = System.Drawing.Color.MidnightBlue
+        Me.btnGrabar.FlatStyle = System.Windows.Forms.FlatStyle.Flat
+        Me.btnGrabar.Font = New System.Drawing.Font("MS Reference Sans Serif", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.btnGrabar.ForeColor = System.Drawing.SystemColors.Window
+        Me.btnGrabar.Image = Global.AperBascu.My.Resources.Resources.Save
+        Me.btnGrabar.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft
+        Me.btnGrabar.Location = New System.Drawing.Point(305, 35)
+        Me.btnGrabar.Name = "btnGrabar"
+        Me.btnGrabar.Size = New System.Drawing.Size(119, 56)
+        Me.btnGrabar.TabIndex = 1
+        Me.btnGrabar.Text = "Actualizar"
+        Me.btnGrabar.TextAlign = System.Drawing.ContentAlignment.MiddleRight
+        Me.btnGrabar.UseVisualStyleBackColor = False
+        '
+        'btnSalir
+        '
+        Me.btnSalir.AutoSize = True
+        Me.btnSalir.BackColor = System.Drawing.Color.MidnightBlue
+        Me.btnSalir.FlatStyle = System.Windows.Forms.FlatStyle.Flat
+        Me.btnSalir.Font = New System.Drawing.Font("MS Reference Sans Serif", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.btnSalir.ForeColor = System.Drawing.SystemColors.Window
+        Me.btnSalir.Image = Global.AperBascu.My.Resources.Resources.ClosedDoor
+        Me.btnSalir.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft
+        Me.btnSalir.Location = New System.Drawing.Point(546, 35)
+        Me.btnSalir.Name = "btnSalir"
+        Me.btnSalir.Size = New System.Drawing.Size(119, 56)
+        Me.btnSalir.TabIndex = 3
+        Me.btnSalir.Text = "Salir"
+        Me.btnSalir.TextAlign = System.Drawing.ContentAlignment.MiddleRight
+        Me.btnSalir.UseVisualStyleBackColor = False
+        '
+        'btnanterior
+        '
+        Me.btnanterior.AutoSize = True
+        Me.btnanterior.FlatStyle = System.Windows.Forms.FlatStyle.Flat
+        Me.btnanterior.Image = Global.AperBascu.My.Resources.Resources.navigate_left32
+        Me.btnanterior.Location = New System.Drawing.Point(47, 35)
+        Me.btnanterior.Name = "btnanterior"
+        Me.btnanterior.Size = New System.Drawing.Size(40, 56)
+        Me.btnanterior.TabIndex = 11
+        Me.btnanterior.UseVisualStyleBackColor = True
+        '
+        'btnultimo
+        '
+        Me.btnultimo.AutoSize = True
+        Me.btnultimo.FlatStyle = System.Windows.Forms.FlatStyle.Flat
+        Me.btnultimo.Image = Global.AperBascu.My.Resources.Resources.navigate_end32
+        Me.btnultimo.Location = New System.Drawing.Point(129, 35)
+        Me.btnultimo.Name = "btnultimo"
+        Me.btnultimo.Size = New System.Drawing.Size(40, 56)
+        Me.btnultimo.TabIndex = 13
+        Me.btnultimo.UseVisualStyleBackColor = True
+        '
+        'btnBorrar
+        '
+        Me.btnBorrar.AutoSize = True
+        Me.btnBorrar.BackColor = System.Drawing.Color.MidnightBlue
+        Me.btnBorrar.FlatStyle = System.Windows.Forms.FlatStyle.Flat
+        Me.btnBorrar.Font = New System.Drawing.Font("MS Reference Sans Serif", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.btnBorrar.ForeColor = System.Drawing.SystemColors.Window
+        Me.btnBorrar.Image = Global.AperBascu.My.Resources.Resources.Stop_21
+        Me.btnBorrar.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft
+        Me.btnBorrar.Location = New System.Drawing.Point(425, 35)
+        Me.btnBorrar.Name = "btnBorrar"
+        Me.btnBorrar.Size = New System.Drawing.Size(119, 56)
+        Me.btnBorrar.TabIndex = 2
+        Me.btnBorrar.Text = "Eliminar"
+        Me.btnBorrar.TextAlign = System.Drawing.ContentAlignment.MiddleRight
+        Me.btnBorrar.UseVisualStyleBackColor = False
+        '
+        'btnNuevo
+        '
+        Me.btnNuevo.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink
+        Me.btnNuevo.BackColor = System.Drawing.Color.MidnightBlue
+        Me.btnNuevo.FlatStyle = System.Windows.Forms.FlatStyle.Flat
+        Me.btnNuevo.Font = New System.Drawing.Font("MS Reference Sans Serif", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.btnNuevo.ForeColor = System.Drawing.SystemColors.Window
+        Me.btnNuevo.Image = Global.AperBascu.My.Resources.Resources.Properties
+        Me.btnNuevo.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft
+        Me.btnNuevo.Location = New System.Drawing.Point(185, 35)
+        Me.btnNuevo.Name = "btnNuevo"
+        Me.btnNuevo.Size = New System.Drawing.Size(119, 56)
+        Me.btnNuevo.TabIndex = 0
+        Me.btnNuevo.Text = "Agregar"
+        Me.btnNuevo.TextAlign = System.Drawing.ContentAlignment.MiddleRight
+        Me.btnNuevo.UseVisualStyleBackColor = False
+        '
+        'btnprimero
+        '
+        Me.btnprimero.AutoSize = True
+        Me.btnprimero.FlatStyle = System.Windows.Forms.FlatStyle.Flat
+        Me.btnprimero.Image = Global.AperBascu.My.Resources.Resources.navigate_beginning32
+        Me.btnprimero.Location = New System.Drawing.Point(6, 35)
+        Me.btnprimero.Name = "btnprimero"
+        Me.btnprimero.Size = New System.Drawing.Size(40, 56)
+        Me.btnprimero.TabIndex = 10
+        Me.btnprimero.UseVisualStyleBackColor = True
+        '
+        'frmRegistroCalibracion
+        '
+        Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
+        Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
+        Me.BackColor = System.Drawing.Color.AliceBlue
+        Me.ClientSize = New System.Drawing.Size(724, 407)
+        Me.Controls.Add(Me.GroupBox3)
+        Me.Controls.Add(Me.GroupBox2)
+        Me.Controls.Add(Me.Label4)
+        Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedToolWindow
+        Me.MaximizeBox = False
+        Me.MinimizeBox = False
+        Me.Name = "frmRegistroCalibracion"
+        Me.Text = "Registro Calibración"
+        Me.GroupBox2.ResumeLayout(False)
+        Me.GroupBox2.PerformLayout()
+        Me.GroupBox3.ResumeLayout(False)
+        Me.GroupBox3.PerformLayout()
+        Me.ResumeLayout(False)
+        Me.PerformLayout()
+
+    End Sub
+    Friend WithEvents Label1 As System.Windows.Forms.Label
+    Friend WithEvents GroupBox2 As System.Windows.Forms.GroupBox
+    Friend WithEvents Label4 As System.Windows.Forms.Label
+    Friend WithEvents btnBuscar As System.Windows.Forms.Button
+    Friend WithEvents txtId As System.Windows.Forms.TextBox
+    Friend WithEvents Label3 As System.Windows.Forms.Label
+    Friend WithEvents GroupBox3 As System.Windows.Forms.GroupBox
+    Friend WithEvents btnsiguiente As System.Windows.Forms.Button
+    Friend WithEvents btnanterior As System.Windows.Forms.Button
+    Friend WithEvents btnultimo As System.Windows.Forms.Button
+    Friend WithEvents btnprimero As System.Windows.Forms.Button
+    Friend WithEvents btnGrabar As System.Windows.Forms.Button
+    Friend WithEvents btnSalir As System.Windows.Forms.Button
+    Friend WithEvents btnBorrar As System.Windows.Forms.Button
+    Friend WithEvents btnNuevo As System.Windows.Forms.Button
+    Friend WithEvents txtProveedor As System.Windows.Forms.TextBox
+    Friend WithEvents Label5 As System.Windows.Forms.Label
+    Friend WithEvents txtAcreditado As System.Windows.Forms.TextBox
+    Friend WithEvents Label7 As System.Windows.Forms.Label
+    Friend WithEvents Label2 As System.Windows.Forms.Label
+    Friend WithEvents txtRegistro As System.Windows.Forms.TextBox
+    Friend WithEvents Label8 As System.Windows.Forms.Label
+    Friend WithEvents cmbBascula As System.Windows.Forms.ComboBox
+    Friend WithEvents dpFechaCalibra As System.Windows.Forms.DateTimePicker
+    Friend WithEvents Label9 As System.Windows.Forms.Label
+    Friend WithEvents txtRegCPN As System.Windows.Forms.TextBox
+    Friend WithEvents Label11 As System.Windows.Forms.Label
+    Friend WithEvents txtDiasFalta As System.Windows.Forms.TextBox
+    Friend WithEvents Label10 As System.Windows.Forms.Label
+    Friend WithEvents dpFechaProxima As System.Windows.Forms.DateTimePicker
+    Friend WithEvents Label6 As System.Windows.Forms.Label
+End Class
