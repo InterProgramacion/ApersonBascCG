@@ -1,4 +1,5 @@
-/bin
-/obj
-/.vs
-/Aperson_FacIn/.vs
+/bin/
+/obj/
+/.vs/
+**/.vs/
+!bin/**/*.exe
