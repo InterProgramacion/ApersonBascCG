@@ -2353,7 +2353,6 @@ SaltarInventario:
         -- Póliza = DUCA + BL
         (dbq.duca_dbq + '-' + dbq.bl_dbq) AS Poliza,
         -- Consignatario
-    ana 
      cons.nombre_csg AS Consignatario
 
     FROM detalle_solicitud_despacho d
